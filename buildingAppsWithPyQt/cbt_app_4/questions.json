@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Rome", "Berlin"],
+        "correct": "Paris"
+    },
+    {
+        "question": "What is 5 + 3?",
+        "options": ["5", "8", "10", "15"],
+        "correct": "8"
+    }
+]

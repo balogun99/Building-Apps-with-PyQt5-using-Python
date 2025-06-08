@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "What is the Capital of FCT ?",
+      "options": ["Kano","Abuja","Lafia", "Lagos"],
+      "answer": "Abuja",
+      "category": "All"
+    },
+    {
+      "question": "What year NIGERIA was given an INDEPENDENCE ?",
+      "options": ["1950", "1960", "1970", "1980"],
+      "answer": "1960",
+      "category": "All"
+    },
+    {
+      "question": "What is the color of the NIGERIA national flag ?",
+      "options": ["Green Red Yellow", "Black Green White", "Green White Green", "Yellow, Red, Black"],
+      "answer": "Green White Green",
+      "category": "All"
+    },
+    {
+      "question": "What is the plural of 'come' ?",
+      "options": ["Went", "Gone", "Came", "Coming"],
+      "answer": "Came",
+      "category": "English"
+    },
+    {
+      "question": "",
+      "options": "",
+      "answer": "",
+      "category": ""
+    },
+    {
+      "question": "",
+      "options": "",
+      "answer": "",
+      "category": ""
+    },
+    {
+      "question": "",
+      "options": "",
+      "answer": "",
+      "category": ""
+    },
+    {
+      "question": "",
+      "options": "",
+      "answer": "",
+      "category": ""
+    }
+  ]
+}
